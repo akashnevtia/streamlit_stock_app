@@ -1,4 +1,4 @@
-streamlit==0.49.0
+streamlit==1.1.0
 plotly==3.10.0
 yfinance==0.1.87
 prophet==1.1.1
